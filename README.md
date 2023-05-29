@@ -1,6 +1,7 @@
 # TheNews
 
 ## About this project
+> TheNews is an app that gathers newsletters in one place
 > Project created using swift and the swiftui framework
 
 > Video of the app 👇
